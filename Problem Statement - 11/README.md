@@ -3,10 +3,15 @@ Design a combinational module named concat8_packer that packs four inputs into a
 Requirements
 Module name: concat8_packer
 Inputs:
+
 A[3:0] (4-bit)
+
 B[1:0] (2-bit)
+
 C (1-bit)
+
 D (1-bit)
+
 Output:
 OUT[7:0] (8-bit)                                        1 
 
